@@ -72,21 +72,6 @@ The primary objective is to clean, merge, and analyze this data to answer key bu
   * **Seaborn:** For advanced statistical visualization.
   * **Jupyter Notebook:** As the development environment.
 
-## 🛠️ How to Run
-
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    ```
-2.  Install the required libraries:
-    ```bash
-    pip install pandas numpy matplotlib seaborn jupyterlab openpyxl
-    ```
-3.  Launch Jupyter Notebook or Jupyter Lab:
-    ```bash
-    jupyter lab
-    ```
-4.  Open the `.ipynb` file and run the cells sequentially.
 
 ## 🔮 Future Work
 
